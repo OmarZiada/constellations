@@ -19,6 +19,8 @@ I then decided to branch out, not limiting the data set to the population: https
 
 In the code provided, you can enter custom data as instructed when running the script. I think this concept is very interesting and deserves mroe developement. Thing is, I'm no pro. I'm a sort of comfortable beginner when it comes to python and I don't have the skills to improve this project. That's why I'm providing to the public.
 
+If you use my code, please give me credit so that more people can help build this project. Once giving credit you are free to use my code as you want.
+
 Here are some issues with my code:
 
 - Stars can overlap
